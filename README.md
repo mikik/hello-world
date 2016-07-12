@@ -1,2 +1,2 @@
 # hello-world
-first exercise
+miki's first github exercise
